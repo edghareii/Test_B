@@ -14,6 +14,16 @@ class Test {
 		a.bubbleSort(array);
 		System.out.println("Bubble Sort :"+Arrays.toString(array));
 
+
+		Ordenacion e =new Metodos_Ordena();
+		e.InsertionSort(array);
+		System.out.println("Insertion Sort :"+Arrays.toString(array));
+		
+		
+		Ordenacion i =new Metodos_Ordena();
+		i.shellSort(array);
+		System.out.println("Sell Sort :"+Arrays.toString(array));
+
 		
 	}
 
