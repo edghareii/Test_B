@@ -1,5 +1,7 @@
 package demo;
 
 interface Ordenacion {
-	int[] ordenar(int[] elements);
+	int[] bubbleSort (int[] list);
+	int[] InsertionSort (int[] list);
+	int[] shellSort(int[] list);
 }
