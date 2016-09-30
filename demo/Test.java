@@ -8,6 +8,9 @@ class Test {
 		// Declarar un objeto de tipo Ordenacion
 		
 		// Hacer la llamada al metodo de impresion
+
+		int[ ] array = {45,23,11,9,2,3,6,5,43,60,21,31,19,8,0,-1,-4,-15,80,100};
+
 		
 	}
 
